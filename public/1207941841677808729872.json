@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "918807282101",
+    "project_id": "tocapaperdoll",
+    "storage_bucket": "tocapaperdoll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918807282101:android:f551a16512e3dd423419fc",
+        "android_client_info": {
+          "package_name": "com.paperdollcreative.dailylifetocapaperdoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918807282101-bmdr7kfm4m0ksku4slb710ebbbaut41v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvsWP_pPjGBo6Z8VjEoKEPSGhRiKAoyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918807282101-bmdr7kfm4m0ksku4slb710ebbbaut41v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918807282101:android:4bdfae4ab46111e23419fc",
+        "android_client_info": {
+          "package_name": "com.paperdollcreative.tocapaperdollpinkhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918807282101-bmdr7kfm4m0ksku4slb710ebbbaut41v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvsWP_pPjGBo6Z8VjEoKEPSGhRiKAoyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918807282101-bmdr7kfm4m0ksku4slb710ebbbaut41v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
